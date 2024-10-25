@@ -1,0 +1,14 @@
+ Volume in drive S is Share
+ Volume Serial Number is C46F-07DF
+
+ Directory of S:\
+
+11.10.2023  08:31    <DIR>          .
+11.10.2023  08:31    <DIR>          ..
+27.02.2023  05:20    <DIR>          .config
+27.02.2023  04:52    <DIR>          DO
+11.10.2023  08:31    <DIR>          dwdwad
+27.02.2023  05:19    <DIR>          git
+11.10.2023  08:30    <DIR>          OOIT grupa 3 - IT 27
+               0 File(s)              0 bytes
+               7 Dir(s)  1,901,059,936,256 bytes free

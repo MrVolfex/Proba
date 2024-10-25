@@ -1,0 +1,5 @@
+[http]
+	proxy = http://ftn.proxy:8080
+[user]
+	name = mrvolfex
+	email = mihailo538@gmail.com
